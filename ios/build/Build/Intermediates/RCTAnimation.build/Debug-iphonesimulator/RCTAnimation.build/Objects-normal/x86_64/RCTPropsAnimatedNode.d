@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.m \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h

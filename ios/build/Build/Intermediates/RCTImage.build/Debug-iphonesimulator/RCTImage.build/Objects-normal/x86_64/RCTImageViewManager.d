@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/Image/RCTImageViewManager.m \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/Image/RCTImageViewManager.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/Libraries/Image/RCTImageView.h

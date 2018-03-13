@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/Julien/Documents/applied/AtSchoolToday-master/node_modules/react-native/React/Profiler/RCTProfile.h
